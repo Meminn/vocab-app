@@ -1,0 +1,378 @@
+[
+  {"word": "abate", "category": "decrease", "example": "The storm finally abated, leaving behind a trail of destruction."},
+  {"word": "accelerate", "category": "increase", "example": "The company plans to accelerate its expansion into new markets."},
+  {"word": "add", "category": "increase", "example": "You can add more details to make your essay more comprehensive."},
+  {"word": "amplify", "category": "increase", "example": "The speaker used examples to amplify his argument."},
+  {"word": "attenuate", "category": "decrease", "example": "The new regulations aim to attenuate the environmental impact of industrial activities."},
+  {"word": "boost", "category": "increase", "example": "The government announced measures to boost the economy."},
+  {"word": "climb", "category": "increase", "example": "The stock prices continued to climb throughout the day."},
+  {"word": "contract", "category": "decrease", "example": "The economy is expected to contract by 2% this year."},
+  {"word": "cut", "category": "decrease", "example": "The company decided to cut costs by reducing staff."},
+  {"word": "cut back", "category": "decrease", "example": "Many households are cutting back on non-essential expenses."},
+  {"word": "curtail", "category": "decrease", "example": "The government is trying to curtail spending on unnecessary projects."},
+  {"word": "decline", "category": "decrease", "example": "The population of the town has been in decline for decades."},
+  {"word": "diminish", "category": "decrease", "example": "The medicine helped diminish the severity of her symptoms."},
+  {"word": "drop", "category": "decrease", "example": "There was a significant drop in temperature overnight."},
+  {"word": "dwindle", "category": "decrease", "example": "The supplies began to dwindle as the expedition continued."},
+  {"word": "enhance", "category": "increase", "example": "The new software is designed to enhance productivity."},
+  {"word": "escalate", "category": "increase", "example": "The conflict escalated quickly, drawing in neighboring countries."},
+  {"word": "expand", "category": "increase", "example": "The company plans to expand its operations to Asia."},
+  {"word": "fall", "category": "decrease", "example": "The leaves fall from the trees in autumn."},
+  {"word": "grow", "category": "increase", "example": "The demand for electric vehicles continues to grow."},
+  {"word": "heighten", "category": "increase", "example": "The announcement heightened public interest in the project."},
+  {"word": "increase", "category": "increase", "example": "The number of international students increased significantly between 2010 and 2020."},
+  {"word": "inflate", "category": "increase", "example": "The balloon began to inflate as air was pumped into it."},
+  {"word": "intensify", "category": "increase", "example": "The campaign aims to intensify efforts to combat climate change."},
+  {"word": "lessen", "category": "decrease", "example": "The new policy is expected to lessen the burden on small businesses."},
+  {"word": "lower", "category": "decrease", "example": "The store decided to lower its prices to attract more customers."},
+  {"word": "magnify", "category": "increase", "example": "The microscope can magnify objects up to 1000 times."},
+  {"word": "minimize", "category": "decrease", "example": "The company is working to minimize the risks associated with the project."},
+  {"word": "plummet", "category": "decrease", "example": "The stock market plummeted after the announcement of the new policy."},
+  {"word": "raise", "category": "increase", "example": "The government plans to raise taxes on luxury goods."},
+  {"word": "reduce", "category": "decrease", "example": "Efforts are being made to reduce greenhouse gas emissions."},
+  {"word": "rise", "category": "increase", "example": "The sun will rise at 6:30 AM tomorrow."},
+  {"word": "shrink", "category": "decrease", "example": "The workforce has shrunk due to automation."},
+  {"word": "slash", "category": "decrease", "example": "The company decided to slash prices to boost sales."},
+  {"word": "skyrocket", "category": "increase", "example": "The demand for hand sanitizers skyrocketed during the pandemic."},
+  {"word": "slump", "category": "decrease", "example": "The housing market experienced a slump after the financial crisis."},
+  {"word": "soar", "category": "increase", "example": "The eagle soared high above the mountains."},
+  {"word": "stagnate", "category": "decrease", "example": "The economy has stagnated due to a lack of investment."},
+  {"word": "surge", "category": "increase", "example": "There was a surge in online shopping during the holiday season."},
+  {"word": "trim", "category": "decrease", "example": "The company plans to trim its budget for the next fiscal year."},
+  {"word": "worsen", "category": "decrease", "example": "The patient's condition began to worsen despite treatment."},
+  {
+    "word": "benefit",
+    "category": "advantage",
+    "example": "One of the main benefits of studying abroad is exposure to a new culture."
+  },
+  {
+    "word": "advantage",
+    "category": "advantage",
+    "example": "A major advantage of online learning is flexibility."
+  },
+  {
+    "word": "merit",
+    "category": "advantage",
+    "example": "The proposal has several merits, including cost-effectiveness."
+  },
+  {
+    "word": "positive aspect",
+    "category": "advantage",
+    "example": "One positive aspect of this policy is its emphasis on sustainability."
+  },
+  {
+    "word": "strength",
+    "category": "advantage",
+    "example": "A key strength of the new system is its user-friendly interface."
+  },
+  {
+    "word": "asset",
+    "category": "advantage",
+    "example": "Her communication skills are a valuable asset to the company."
+  },
+  {
+    "word": "upside",
+    "category": "advantage",
+    "example": "The upside of remote work is the reduction in commuting time."
+  },
+  {
+    "word": "drawback",
+    "category": "disadvantage",
+    "example": "One drawback of this approach is the high implementation cost."
+  },
+  {
+    "word": "disadvantage",
+    "category": "disadvantage",
+    "example": "A significant disadvantage of fast food is its negative impact on health."
+  },
+  {
+    "word": "limitation",
+    "category": "disadvantage",
+    "example": "The main limitation of the study is the small sample size."
+  },
+  {
+    "word": "weakness",
+    "category": "disadvantage",
+    "example": "A major weakness of the argument is the lack of supporting evidence."
+  },
+  {
+    "word": "negative aspect",
+    "category": "disadvantage",
+    "example": "One negative aspect of globalization is the loss of cultural identity."
+  },
+  {
+    "word": "downside",
+    "category": "disadvantage",
+    "example": "The downside of this method is that it requires a lot of manual work."
+  },
+  {
+    "word": "flaw",
+    "category": "disadvantage",
+    "example": "The plan has a fundamental flaw: it ignores long-term consequences."
+  },
+  {
+    "word": "shortcoming",
+    "category": "disadvantage",
+    "example": "A significant shortcoming of the current system is its lack of transparency."
+  },
+  {
+    "word": "consequence",
+    "category": "result",
+    "example": "The consequence of the policy change was a significant increase in public spending."
+  },
+  {
+    "word": "outcome",
+    "category": "result",
+    "example": "The outcome of the experiment was not what we expected."
+  },
+  {
+    "word": "result",
+    "category": "result",
+    "example": "The result of the study confirmed our initial hypothesis."
+  },
+  {
+    "word": "effect",
+    "category": "result",
+    "example": "The effect of the new law was felt immediately."
+  },
+  {
+    "word": "impact",
+    "category": "result",
+    "example": "The impact of climate change is becoming increasingly evident."
+  },
+  {
+    "word": "repercussion",
+    "category": "result",
+    "example": "The repercussion of the decision was felt across the entire organization."
+  },
+  {
+    "word": "ramification",
+    "category": "result",
+    "example": "The policy change had significant ramifications for small businesses."
+  },
+  {
+    "word": "corollary",
+    "category": "result",
+    "example": "The corollary of the new regulations is a more competitive market."
+  },
+  {
+    "word": "thereby",
+    "category": "result",
+    "example": "The company improved its marketing strategy, thereby increasing sales."
+  },
+  {
+    "word": "consequently",
+    "category": "result",
+    "example": "The population increased rapidly; consequently, housing became a major issue."
+  },
+  {
+    "word": "as a result",
+    "category": "result",
+    "example": "The government invested heavily in infrastructure. As a result, traffic congestion decreased."
+  },
+  {
+    "word": "therefore",
+    "category": "result",
+    "example": "The company failed to adapt to market changes; therefore, it suffered financial losses."
+  },
+  {
+    "word": "thus",
+    "category": "result",
+    "example": "The factory met all environmental standards, thus avoiding penalties."
+  },
+  {
+    "word": "hence",
+    "category": "result",
+    "example": "The new policies encourage tourism; hence, the local economy has improved."
+  },
+  {
+    "word": "leading to",
+    "category": "result",
+    "example": "Deforestation has accelerated, leading to a decline in biodiversity."
+  },
+  {
+    "word": "resulting in",
+    "category": "result",
+    "example": "The lack of regulations resulted in increased pollution levels."
+  },
+  {
+    "word": "due to this",
+    "category": "result",
+    "example": "Interest rates were lowered. Due to this, more people applied for loans."
+  },
+  {
+    "word": "so that",
+    "category": "result",
+    "example": "Public transport was improved so that commuting would become easier."
+  },
+  {
+    "word": "effect",
+    "category": "result",
+    "example": "The effect of climate change can be seen in the rising sea levels."
+  },
+  {
+    "word": "and",
+    "category": "conjs",
+    "example": "The government increased funding for education and healthcare."
+  },
+  {
+    "word": "but",
+    "category": "conjs",
+    "example": "Many people support the proposal, but others are strongly against it."
+  },
+  {
+    "word": "or",
+    "category": "conjs",
+    "example": "Students can choose French or German as their second language."
+  },
+  {
+    "word": "so",
+    "category": "conjs",
+    "example": "It was raining heavily, so the match was postponed."
+  },
+  {
+    "word": "although",
+    "category": "conjs",
+    "example": "Although the idea is appealing, it may not be practical."
+  },
+  {
+    "word": "even though",
+    "category": "conjs",
+    "example": "Even though he studied hard, he failed the exam."
+  },
+  {
+    "word": "while",
+    "category": "conjs",
+    "example": "While some people prefer online shopping, others still value traditional stores."
+  },
+  {
+    "word": "whereas",
+    "category": "conjs",
+    "example": "Men’s salaries increased, whereas women’s remained the same."
+  },
+  {
+    "word": "because",
+    "category": "conjs",
+    "example": "She passed the test because she had studied thoroughly."
+  },
+  {
+    "word": "as",
+    "category": "conjs",
+    "example": "As more people work from home, the demand for office space has decreased."
+  },
+  {
+    "word": "similarly",
+    "category": "comparison",
+    "example": "The UK experienced a rise in inflation; similarly, other European countries saw an increase."
+  },
+  {
+    "word": "likewise",
+    "category": "comparison",
+    "example": "The economy in the US is recovering; likewise, Canada has seen improvements."
+  },
+  {
+    "word": "in the same way",
+    "category": "comparison",
+    "example": "The number of tourists rose in France, in the same way it did in Italy."
+  },
+  {
+    "word": "compared to",
+    "category": "comparison",
+    "example": "Compared to last year, unemployment figures have dropped."
+  },
+  {
+    "word": "in comparison",
+    "category": "comparison",
+    "example": "In comparison to rural areas, urban regions offer more job opportunities."
+  },
+  {
+    "word": "on the other hand",
+    "category": "comparison",
+    "example": "City life is fast-paced; on the other hand, rural life is more relaxed."
+  },
+  {
+    "word": "whereas",
+    "category": "comparison",
+    "example": "Women live longer, whereas men are more prone to lifestyle diseases."
+  },
+  {
+    "word": "while",
+    "category": "comparison",
+    "example": "While some countries are developing rapidly, others still struggle economically."
+  },
+  {
+    "word": "more than",
+    "category": "comparison",
+    "example": "This year, exports increased more than imports."
+  },
+  {
+    "word": "less than",
+    "category": "comparison",
+    "example": "Students in Group A scored less than those in Group B."
+  },
+  {
+    "word": "as well as",
+    "category": "comparison",
+    "example": "The new policy benefits employees as well as employers."
+  },
+  {
+    "word": "in addition to",
+    "category": "comparison",
+    "example": "In addition to improving health, exercise boosts mental well-being."
+  },
+  {
+    "word": "besides",
+    "category": "comparison",
+    "example": "Besides being cost-effective, the solution is environmentally friendly."
+  },
+  {
+    "word": "believe",
+    "category": "opinion",
+    "example": "Many people believe that education is the key to success."
+  },
+  {
+    "word": "think",
+    "category": "opinion",
+    "example": "I think the government should invest more in public transport."
+  },
+  {
+    "word": "argue",
+    "category": "opinion",
+    "example": "Some experts argue that climate change is the most urgent global issue."
+  },
+  {
+    "word": "suggest",
+    "category": "opinion",
+    "example": "It is often suggested that young people should learn a second language."
+  },
+  {
+    "word": "claim",
+    "category": "opinion",
+    "example": "Critics claim that social media has a negative impact on communication."
+  },
+  {
+    "word": "maintain",
+    "category": "opinion",
+    "example": "Many researchers maintain that regular exercise improves mental health."
+  },
+  {
+    "word": "assert",
+    "category": "opinion",
+    "example": "Some scientists assert that nuclear energy is a safe alternative to fossil fuels."
+  },
+  {
+    "word": "consider",
+    "category": "opinion",
+    "example": "I consider this approach to be more effective than traditional methods."
+  },
+  {
+    "word": "support the view",
+    "category": "opinion",
+    "example": "I support the view that stricter laws are needed to reduce crime."
+  },
+  {
+    "word": "hold the opinion",
+    "category": "opinion",
+    "example": "Many educators hold the opinion that homework enhances student learning."
+  }  
+]
